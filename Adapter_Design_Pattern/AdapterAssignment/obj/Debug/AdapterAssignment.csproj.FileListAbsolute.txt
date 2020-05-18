@@ -1,0 +1,6 @@
+/Users/aliatakanakman/VisualStudio/AdapterAssignment/AdapterAssignment/bin/Debug/AdapterAssignment.exe
+/Users/aliatakanakman/VisualStudio/AdapterAssignment/AdapterAssignment/bin/Debug/AdapterAssignment.pdb
+/Users/aliatakanakman/VisualStudio/AdapterAssignment/AdapterAssignment/obj/Debug/AdapterAssignment.csprojAssemblyReference.cache
+/Users/aliatakanakman/VisualStudio/AdapterAssignment/AdapterAssignment/obj/Debug/AdapterAssignment.csproj.CoreCompileInputs.cache
+/Users/aliatakanakman/VisualStudio/AdapterAssignment/AdapterAssignment/obj/Debug/AdapterAssignment.exe
+/Users/aliatakanakman/VisualStudio/AdapterAssignment/AdapterAssignment/obj/Debug/AdapterAssignment.pdb

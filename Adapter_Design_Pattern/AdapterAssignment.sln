@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterAssignment", "AdapterAssignment\AdapterAssignment.csproj", "{B102A518-4BDB-4BA2-AC99-551DB25349EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B102A518-4BDB-4BA2-AC99-551DB25349EA}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B102A518-4BDB-4BA2-AC99-551DB25349EA}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B102A518-4BDB-4BA2-AC99-551DB25349EA}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B102A518-4BDB-4BA2-AC99-551DB25349EA}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+/Users/aliatakanakman/VisualStudio/BuilderAssignment/BuilderAssignment/obj/Debug/BuilderAssignment.csprojAssemblyReference.cache
+/Users/aliatakanakman/VisualStudio/BuilderAssignment/BuilderAssignment/obj/Debug/BuilderAssignment.csproj.CoreCompileInputs.cache
+/Users/aliatakanakman/VisualStudio/BuilderAssignment/BuilderAssignment/bin/Debug/BuilderAssignment.exe
+/Users/aliatakanakman/VisualStudio/BuilderAssignment/BuilderAssignment/bin/Debug/BuilderAssignment.pdb
+/Users/aliatakanakman/VisualStudio/BuilderAssignment/BuilderAssignment/obj/Debug/BuilderAssignment.exe
+/Users/aliatakanakman/VisualStudio/BuilderAssignment/BuilderAssignment/obj/Debug/BuilderAssignment.pdb
